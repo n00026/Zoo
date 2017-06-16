@@ -14,6 +14,6 @@ public class Runner {
 		boolean flag = tuzik.eat(2);
 		System.out.println("weight of dog:" + tuzik.getWeight());
 		tuzik.eat(5);
-		System.out.println("weight of dog:" + tuzik.getWeight());
+		System.out.println("initial weight of dog Tuzik:" + tuzik.getWeight());
 	}
 }
