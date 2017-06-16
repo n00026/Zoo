@@ -10,7 +10,7 @@ public class Runner {
 		goldFish.setWeight(12);
 		goldFish.setBubbles("0-0-0-0-0");
 		
-		System.out.println("weight of dog:" + tuzik.getWeight());
+		System.out.println("weight of catdog fish:" + tuzik.getWeight());
 		boolean flag = tuzik.eat(2);
 		System.out.println("weight of dog:" + tuzik.getWeight());
 		tuzik.eat(5);
